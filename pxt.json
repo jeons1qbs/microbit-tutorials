@@ -1,6 +1,6 @@
 {
     "name": "microbit-tutorials",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Micro:bit Classroom Tutorials",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "tutorials/y3_microbit_01.md"
+        "tutorials/y3_microbit_01.md",
+        "tutorials/y3_microbit_02.md",
+        "tutorials/y3_microbit_03.md"
     ],
     "targetVersions": {
         "target": "7.0.0",
