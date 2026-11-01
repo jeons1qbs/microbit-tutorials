@@ -1,0 +1,23 @@
+{
+    "name": "microbit-tutorials",
+    "version": "0.0.1",
+    "description": "Micro:bit Classroom Tutorials",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "tutorials/y3_microbit_01.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
